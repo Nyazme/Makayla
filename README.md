@@ -20,7 +20,7 @@ February 2016-Present</p>
   <li>Claims Adjuster Licensed- FL, KY, LA, NC, NM, RI, WV</li>
 </ul>
 
-<h4>Sports & Radio Broadcasting Services</h4> - September 2005-Present
+<h4>Sports & Radio Broadcasting Services</h4> 
 <p>On-Site Radio Engineer<br>
 Scottsdale, AZ<br>
 September 2005-Present</p>
@@ -41,7 +41,7 @@ September 2014-February 2016</p>
    <li>Certifications: Series 7 & 63 licenses (expired)</li>
 </ul>
 
-<h4>Home Depot (#458) <h4>
+<h4>Home Depot</h4>
 <p>Pro Account Sales Associate<br>
 Tempe, AZ<br>
 March 2013-August 2014</p>
