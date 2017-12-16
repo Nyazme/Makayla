@@ -96,6 +96,5 @@ November 2007 - August 2010</p>
 
 <h4>Arizona State University (ASU)</h4><br>
 Bachelor of Science (BS) Advertising, School of Business
-
 <h4>Paul Smith's College</h4><br>
 Associate of Applied Science (AAS) Hotel & Restaurant Management
