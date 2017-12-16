@@ -95,8 +95,12 @@ November 2007 - August 2010</p>
 <h3>Education</h3>
 
 <h4>Arizona State University (ASU)</h4><br>
-Tempe, AZ
-Bachelor of Science (BS) Advertising, School of Business
+<p> Tempe, AZ<br>
+Bachelor of Science (BS) Advertising, School of Business<p/>
+
+
 <h4>Paul Smith's College</h4><br>
-Paul Smiths, NY
-Associate of Applied Science (AAS) Hotel & Restaurant Management
+<p>Paul Smiths, NY<br>
+Associate of Applied Science (AAS) Hotel & Restaurant Management<p/>
+
+
